@@ -8,6 +8,10 @@ My final-year project is a physics-informed CNN-transformer that estimates lithi
 
 Ageing-aware physics-informed transformer for battery SOC estimation. A five-term loss built on a Thevenin equivalent circuit, a residual correction on a Coulomb-counting anchor instead of absolute SOC prediction, and a three-way benchmark of automated hyperparameter search against manual tuning. MATLAB and Python. Trained on a laptop CPU.
 
+### [malaysia-energy-transition-dashboard](https://github.com/Aether03/malaysia-energy-transition-dashboard)
+
+How fast is Malaysia's electricity getting cleaner? A reproducible Python pipeline loads open data into SQL Server, checks it with 34 data-quality rules, and feeds a nine-page Power BI report and a Streamlit web version. Renewables' share of generation roughly doubled since 2013–15, yet power-sector emissions rose 27%. A day-ahead load forecast beats the standard baseline by 47% (Thailand) and 35% (Singapore). Python, SQL Server, Power BI, Streamlit.
+
 ### What I actually work in
 
 MATLAB with the Deep Learning Toolbox is where I'm strongest: custom layers, custom training loops, autodiff-safe operations, physics-constrained loss functions. Python for orchestration and analysis, mostly Optuna, NumPy, pandas and Matplotlib. I've built and debugged multi-day hyperparameter searches that checkpoint and resume across process boundaries.
@@ -16,9 +20,9 @@ MATLAB with the Deep Learning Toolbox is where I'm strongest: custom layers, cus
 
 **Coursework level:** C/C++.
 
-**Familiar, not fluent:** Power BI, Excel.
+**Familiar, not fluent:** SQL (SQL Server / T-SQL), Power BI, Excel.
 
-**Not yet:** SQL, Docker, cloud platforms, PLC/SCADA, ETAP/PSCAD/DIgSILENT.
+**Not yet:** Docker, cloud platforms, PLC/SCADA, ETAP/PSCAD/DIgSILENT.
 
 That last line is deliberate. I'd rather you know before the interview than after.
 
